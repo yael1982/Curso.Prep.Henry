@@ -1,0 +1,21 @@
+Variables:
+Una variable almacena y etiqueta datos en la memoria de la computadora. Contiene valores y los representan con un nombre.
+Estos datos pueden ser:
+. Números 
+. Strings o también llamados "Cadenas de caracteres".
+. Valores booleanos como lo son el true y false.
+. Y otras tantas cosas mas.
+
+Strings:
+Son cualquier agrupación de caracteres (letras, espacios, números o símbolos) rodeados de comillas simples 'o dobles ".
+
+Funciones:
+Son fragmentos de códigos (o un conjunto de instrucciones) que se agrupan para realizar una tarea específica y que podemos reutilizar tantas veces como querramos. Es decir, nos evitan tener que escribir repetidas veces un conjunto de códigos.
+La manera en que se escriben las funciones es colocando primero la palabra function, luego colocamos el nombre de la función y a continuación colocamos los argumentos entre paréntesis.
+Dentro de las funciones tenemos la palabra reservada "return" cuya finalidad es hacer que acaben, de manera automática, todas las instrucciones dadas en dicha función. De manera que, si hay algún otro código escrito por debajo de return, este será ignorado inmediatamente y no se ejecutará.
+
+Las declaraciones if:
+Tanto "if" como "else if" y "else" son condicionales que se utilizan bastante en javaScript y lo que hacen es validar si un objeto es verdadero o falso y, de acuerdo a su resultado, devuelven determinadas respuestas.
+
+Valores booleanos:
+Los valores booleanos tienen por finalidad evaluar si una condición es verdadera o falsa.
