@@ -1,0 +1,17 @@
+FOR:
+Declara instrucciones en bucle. Con 3 piezas importantes de información separadas on ; 
+* Inicialización: define donde empezar el ciclo.
+* Condición de detención: determina cuando detener el bucle.
+* Iteración: actualiza el iterador cada vez que completa el ciclo.
+ Usa una variable como contador para limitar las interacciones del bucle. El bloque que contiene el "for" se ejecutará, hasta que el contador llegue a determinado punto.
+
+&&:
+Compara 2 valores y devuelve un valor booleano. Si ambos son verdaderos devuelve "true", si uno de los valores o ambos son falsos, devuelve "false"
+
+||:
+Comprueba dos valores y devuelve un valor booleano. Si uno o ambos valores son verdaderos, regresa "true". Si ambos valores son falsos, regresa "false".
+
+!:
+El operador lógico NOT "!" se puede utilizar para realizar una de las siguientes acciones:
+* Invierte un valor booleano.
+* Invertir la veracidad de los valores no booleanos.
