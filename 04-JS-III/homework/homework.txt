@@ -1,0 +1,2 @@
+Arrays:
+Son objetos similares a una lista. Es el método más común y simple para almacenar datos.
